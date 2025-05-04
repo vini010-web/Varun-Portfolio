@@ -1,2 +1,8 @@
-# Varun-Portfolio
-👋 Hi, I'm VARUN KUMAR I'm a MERN stack developer (MongoDB, Express.js, React, Node.js) passionate about building full-stack web applications that are fast, responsive, and scalable. I love turning ideas into code and solving real-world problems through clean and efficient development.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
